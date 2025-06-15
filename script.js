@@ -1,1 +1,3 @@
-"console.log('�ਢ�� �� script.js');" 
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Приложение загружено!");
+});
